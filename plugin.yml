@@ -1,6 +1,10 @@
-
 namespace: KitsMc
 version: 1.1v
 main: KitsMc\Main
 api: 3.0.0
 author: Pluginer_Mc
+commands:
+  kit:
+    description: kits
+  vip:
+     description: for vip kits
