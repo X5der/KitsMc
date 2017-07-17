@@ -8,3 +8,6 @@ commands:
     description: kits
   vip:
      description: for vip kits
+permission:
+  kit.kitsvip:
+    default: op
